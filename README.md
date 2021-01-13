@@ -1,2 +1,2 @@
 # techSite
-link to the tutorial I used: https://www.youtube.com/watch?v=FazgJVnrVuI
+link to the tutorial I used, and thanks to Brian Design: https://www.youtube.com/watch?v=FazgJVnrVuI
